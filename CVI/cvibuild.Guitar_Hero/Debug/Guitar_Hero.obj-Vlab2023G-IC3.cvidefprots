@@ -1,0 +1,100 @@
+[ReleaseMP3s]
+Class="Function"
+Prototype="void ReleaseMP3s();"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:83:1"
+
+[InitMP3s]
+Class="Function"
+Prototype="void InitMP3s();"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:91:1"
+
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:110:1"
+
+[init]
+Class="Function"
+Prototype="void init();"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:135:1"
+
+[terminate]
+Class="Function"
+Prototype="void terminate();"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:189:1"
+
+[Exit]
+Class="Function"
+Prototype="int Exit(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:229:1"
+
+[Time]
+Class="Function"
+Prototype="int Time(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:248:1"
+
+[RUN]
+Class="Function"
+Prototype="int RUN(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:339:1"
+
+[EXIT]
+Class="Function"
+Prototype="int EXIT(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:440:1"
+
+[Return]
+Class="Function"
+Prototype="int Return(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:456:1"
+
+[arrow1_run]
+Class="Function"
+Prototype="int arrow1_run(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:490:1"
+
+[arrow2_run]
+Class="Function"
+Prototype="int arrow2_run(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:533:1"
+
+[arrow3_run]
+Class="Function"
+Prototype="int arrow3_run(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:576:1"
+
+[arrow4_run]
+Class="Function"
+Prototype="int arrow4_run(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:619:1"
+
+[EXIT1]
+Class="Function"
+Prototype="int EXIT1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:663:1"
+
+[display_arrows]
+Class="Function"
+Prototype="void display_arrows(int left, int right, int top, int down);"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:675:1"
+
+[update_table]
+Class="Function"
+Prototype="void update_table(char player_new[], int player_score);"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:770:1"
+
+[init_table]
+Class="Function"
+Prototype="void init_table();"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:796:1"
+
+[Load]
+Class="Function"
+Prototype="int Load(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:817:1"
+
+[about]
+Class="Function"
+Prototype="int about(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Gilad.Iosef\OneDrive - Afeka College Of Engineering\פרוייקט גמר מצטיינים\Guitar_Hero.c:845:1"
+

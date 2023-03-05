@@ -1,0 +1,165 @@
+[ReleaseMP3s]
+Class="Function"
+Prototype="void ReleaseMP3s();"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:96:1"
+
+[InitMP3s]
+Class="Function"
+Prototype="void InitMP3s();"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:109:1"
+
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:137:1"
+
+[init]
+Class="Function"
+Prototype="void init();"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:173:1"
+
+[terminate]
+Class="Function"
+Prototype="void terminate();"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:240:1"
+
+[Exit]
+Class="Function"
+Prototype="int Exit(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:297:1"
+
+[Time]
+Class="Function"
+Prototype="int Time(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:316:1"
+
+[RUN]
+Class="Function"
+Prototype="int RUN(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:500:1"
+
+[EXIT]
+Class="Function"
+Prototype="int EXIT(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:647:1"
+
+[Return]
+Class="Function"
+Prototype="int Return(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:663:1"
+
+[arrow1_run]
+Class="Function"
+Prototype="int arrow1_run(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:711:1"
+
+[arrow2_run]
+Class="Function"
+Prototype="int arrow2_run(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:775:1"
+
+[arrow3_run]
+Class="Function"
+Prototype="int arrow3_run(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:837:1"
+
+[arrow4_run]
+Class="Function"
+Prototype="int arrow4_run(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:899:1"
+
+[EXIT1]
+Class="Function"
+Prototype="int EXIT1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:963:1"
+
+[display_arrows]
+Class="Function"
+Prototype="void display_arrows(int left, int right, int top, int down);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:978:1"
+
+[update_table]
+Class="Function"
+Prototype="void update_table(char player_new[], int player_score);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:1088:1"
+
+[init_table]
+Class="Function"
+Prototype="void init_table();"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:1114:1"
+
+[Load]
+Class="Function"
+Prototype="int Load(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:1135:1"
+
+[about]
+Class="Function"
+Prototype="int about(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:1166:1"
+
+[stopallmusic]
+Class="Function"
+Prototype="void stopallmusic();"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:1178:1"
+
+[WINNERoP]
+Class="Function"
+Prototype="int WINNERoP(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:1190:1"
+
+[EXIT2]
+Class="Function"
+Prototype="int EXIT2(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:1202:1"
+
+[changeins]
+Class="Function"
+Prototype="int changeins(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:1220:1"
+
+[STOP_MUSIC]
+Class="Function"
+Prototype="int STOP_MUSIC(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:1247:1"
+
+[changeGEN]
+Class="Function"
+Prototype="int changeGEN(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:1272:1"
+
+[ChangeMode]
+Class="Function"
+Prototype="int ChangeMode(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:1295:1"
+
+[exit1]
+Class="Function"
+Prototype="int exit1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:1316:1"
+
+[openpdf]
+Class="Function"
+Prototype="int openpdf(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:1328:1"
+
+[about2]
+Class="Function"
+Prototype="int about2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:1341:1"
+
+[exit9]
+Class="Function"
+Prototype="int exit9(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:1353:1"
+
+[DREWHITE]
+Class="Function"
+Prototype="int DREWHITE(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:1365:1"
+
+[openvideo]
+Class="Function"
+Prototype="int openvideo(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\gilad\Desktop\13.2.23פרוייקט גמר מצטיינים\Guitar_Hero.c:1377:1"
+
